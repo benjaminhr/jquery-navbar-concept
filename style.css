@@ -1,0 +1,51 @@
+body {
+  background-color: #feecde;
+}
+
+h1 {
+  color: #feecde;
+}
+
+div {
+  margin: 23px;
+}
+
+#pre {
+  border-style: solid;
+  height: 110px;
+  width: 210px;
+  margin-left: 21px;
+}
+
+.text {
+  margin-left: 3px;
+  position: relative;
+}
+
+#first, #second, #third, #fourth{
+  border-radius:3px;
+}
+
+#first {
+  background-color: blue;
+  height: 100px;
+  width: 200px;
+}
+
+#second {
+  background-color: #3399ff;
+  height: 100px;
+  width: 200px;
+}
+
+#third {
+  background-color: #66ccff;
+  height: 100px;
+  width: 200px;
+}
+
+#fourth {
+  background-color: #6fd4cc;
+  height: 100px;
+  width: 200px;
+}
